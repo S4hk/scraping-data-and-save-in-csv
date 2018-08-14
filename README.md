@@ -14,3 +14,7 @@ pip install Beautiful Soup 4
 python scrap.py
 
 ![screenshot](https://raw.githubusercontent.com/S4hk/scraping-data-and-save-in-csv/master/Screenshot%20from%202018-04-12%2007-06-30.png)
+
+### Filters
+
+the script will filter the numbers for each company to separted file
